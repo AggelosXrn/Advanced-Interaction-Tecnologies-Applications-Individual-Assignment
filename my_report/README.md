@@ -70,11 +70,15 @@ URL Εργασίας στο GitHub: https://github.com/AggelosXrn/Advanced-Inter
 Σαν δεύτερο υποερώτημα μας ζητήθηκε να φτιάξουμε μια εφαρμογή επεξεργασίας εικόνας φωτογραφιών (π.χ. μεγέθυνση, μετακίνηση, αντίθεση, φωτεινότητα, κ.α) που θα χρησιμοποιεί την κάμερα για την αναγνώριση και παρακολούθηση των κωδικών fiducials, με βάση το παράδειγμα TUIO demo. Οι κωδικοί fiducials θα αντιπροσωπεύουν δύο φωτογραφίες που εγώ τοποθέτησα και αυτές είναι οι εξής:  
 
 ![image](https://user-images.githubusercontent.com/93786079/212409237-c64dcd98-7da9-4ebe-8edf-fd2823fe8f05.png)
+
 image2: pao_2
 
  ![image](https://user-images.githubusercontent.com/93786079/212409277-f9944a66-10ce-49fe-8c42-ca850771a5c3.png)
+ 
  image1: pao_1
+
 Έτσι μέσω της εφαρμογής reacTIVision και του processing με τον κατάλληλα διαμορφωμένο κώδικα και απαραίτητες προσθήκες στο παράδειγμα του TuioDemo πέτυχα να έχω αναγνώριση δύο fiducials και έτσι να εμφανίζονται οι παραπάνω εικόνες. Με την αναγνώριση του fiducial 1 με ID 1 εμφανίζεται δίπλα στην οθόνη του processing η image1 και με την αναγνώριση του fiducial 2 εμφανίζεται η image2. 
+
 ![image](https://user-images.githubusercontent.com/93786079/212409329-ef7ae88f-cc4a-49d7-b849-acba83bf7461.png)
 ![image](https://user-images.githubusercontent.com/93786079/212409352-5b2fcb25-783b-4b56-bd68-881a14ef64c1.png)
 
